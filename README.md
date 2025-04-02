@@ -1,2 +1,2 @@
-# Yolo_Series
-Projects related to object detection models.
+# Noise reduction model
+Noise reduction-related models.
